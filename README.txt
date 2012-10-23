@@ -1,4 +1,8 @@
-This is the working directory for the first OSDD malaria paper.
+This is the working directory for the first OSDD malaria paper. For project info see:
+
+http://www.thesynapticleap.org
+http://openwetware.org/wiki/OSDDMalaria
+http://www.twitter/OSDDMalaria
 
 It used to be linked to a svn repository administered by Paul M. Ylioja. Now it's in github. Don't worry, just make changes as you would to a normal file and we'll deal with the version tracking but if you wish/can use git then please do so.
 
