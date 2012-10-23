@@ -1,3 +1,5 @@
+## About
+
 This is the working directory for the first OSDD malaria paper. For project info see:
 
 http://www.thesynapticleap.org
@@ -8,7 +10,16 @@ It used to be linked to a svn repository administered by Paul M. Ylioja. Now it'
 
 If you make changes and feel like doing so log your changes in this file. Don't worry if you don't have the time, we don't have too much many people to keep track of at the moment.
 
-=== Log ===
+## Document
+
+The doc file contains the current text, schemes, figures and tables for the draft paper.
+
+## Experimental
+
+The experimental folder contains LaTeX files, chemdraw .cdx and pdf files for the experimental/supporting information section of the paper.
+
+## Log
+
 18/04/12 12.00 Started SVN repository. PY.
 19/04/12 12.24 changed papertext.docx route diagram to an embedded .cdx for modification (current .cdx style is ACS).
 
