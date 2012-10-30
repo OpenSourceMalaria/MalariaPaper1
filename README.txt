@@ -22,6 +22,7 @@ The experimental folder contains LaTeX files, chemdraw .cdx and pdf files for th
 
 18/04/12 12.00 Started SVN repository. PY.
 19/04/12 12.24 changed papertext.docx route diagram to an embedded .cdx for modification (current .cdx style is ACS).
+Joined by Alice test
 
 23/10/12 14.45 	PMY: 	Created Archive_23Oct.zip and deleted old non-archived versions (latest).
 			creating github repo under OSDDMalaria username	
