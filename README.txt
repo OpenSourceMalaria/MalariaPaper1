@@ -1,6 +1,6 @@
 ## About
 
-This is the working directory for the first OSDD malaria paper. 
+This was the working directory for the first OSM paper. The paper is under review and this repo is not up to date and is awaiting archiving/deletion.
 
 The paper is at draft stage and anyone is invited to suggest changes/corrections at this stage. This paper is in no way publishable at this stage and all results are to be treated as preliminary/pending confirmation until after publication in peer-reviewed journals.
 
